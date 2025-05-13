@@ -22,3 +22,8 @@ img{
     border-radius: 50%;
     display: block;
 }
+
+.image {
+    padding: 10px;
+    box-shadow: 0 5px 10px 0 gray;
+}
