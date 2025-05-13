@@ -1,0 +1,22 @@
+#btn {
+    background-color: #6200ee;
+    font-size: 1.5rem;
+    color: #ffffff;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    border: none;
+    border-radius: 5px;
+    padding: 30px, 50px;
+    box-shadow: 2px, 2px, 2px, 2px grey;
+    transition: 0.5s;
+}
+#btn:hover {
+    background-color: #7f24ff;
+    box-shadow: 0 5px 10px 0 gray;
+}
+img{
+    margin-top: 20px;
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+}
